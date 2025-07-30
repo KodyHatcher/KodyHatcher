@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m Kody Hatcher, a student at the University of Nebraska at Omaha, double majoring in Cybersecurity and Artificial Intelligence with a minor in Computer Science. I'm passionate about building secure, intelligent software that solves real problems.<br><br>Currently, I work as a Software Development Intern at Catholic Mutual Group, where I develop and maintain real-world applications with a focus on security and automation.<br><br>Outside of technology, I enjoy golfing, spending time with friends, and pushing myself with new challenges. I believe in teamwork, curiosity, and staying optimistic no matter the obstacle.
+I’m Kody Hatcher, a student at the University of Nebraska at Omaha, double majoring in Cybersecurity and Artificial Intelligence with a minor in Computer Science. I'm passionate about building secure, intelligent software that solves real problems.<br><br>Currently, I work as a Software Development Intern at Catholic Mutual Group, where I develop and maintain real-world applications with a focus on security and automation.<br><br>Outside of technology, I enjoy golfing, spending time with friends, and pushing myself with new challenges. I believe in teamwork, curiosity, and staying optimistic no matter the obstacle.<br><br>It shows that I don't have any commits but that is due to my repositories being private.
 
 
 ## 🌐 Socials:
