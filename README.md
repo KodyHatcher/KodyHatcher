@@ -2,7 +2,7 @@
 I’m Kody Hatcher, a student at the University of Nebraska at Omaha, double majoring in Cybersecurity and Artificial Intelligence with a minor in Computer Science. I'm passionate about building secure, intelligent software that solves real problems.<br><br>Currently, I work as a Software Development Intern at Catholic Mutual Group, where I develop and maintain real-world applications with a focus on security and automation.<br><br>Outside of technology, I enjoy golfing, spending time with friends, and pushing myself with new challenges. I believe in teamwork, curiosity, and staying optimistic no matter the obstacle.<br><br>It shows that I don't have any commits but that is due to my repositories being private.
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kody.hatcher) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/kody-hatcher-a99768234) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kodyhatcher@gmail.com) 
 
 # 💻 Tech Stack:
